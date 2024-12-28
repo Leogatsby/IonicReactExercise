@@ -1,0 +1,7 @@
+{
+  "name": "ionicReactExcercise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
